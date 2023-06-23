@@ -54,17 +54,18 @@ Tanto na página inicial, quanto nas outras páginas, você poderá adicionar o 
 
 **Front-end:** React,TypeScript, Styled Components, Phosphor Icons,Jest, Testing Library.
 
-**Back-end:** TypeScript,Jest, Testing Library, Axios, Babel
+**Back-end:** TypeScript,Jest, Testing Library, Axios, Babel, Vitejs
 
 
 ## Entrega das funcionalidades
 
 Pontos que foram entregues nesta aplicação:
 
-- Consumindo um API pública
+- Consumindo uma API pública
 - Testes unitários com Jest
 - Responsividade
 - Componentes reutilizáveis
+- Context API
 
 ## Feedback
 
